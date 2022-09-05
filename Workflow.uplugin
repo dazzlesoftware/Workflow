@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Workflow",
+	"Description": "Facilitates setting up integration test suits with Unreal Engine 5 Gauntlet.",
+	"Category": "Other",
+	"CreatedBy": "Dazzle Software",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Workflow",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
