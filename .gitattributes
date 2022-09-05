@@ -241,6 +241,13 @@
 *.gitattributes linguist-language=gitattributes
 
 ###############################################################################
+# GitHub
+###############################################################################
+*.gitattributes text eol=lf
+*.gitmodules text eol=lf
+*.gitkeep text eol=lf
+
+###############################################################################
 # Exclude files from exporting
 ###############################################################################
 .gitattributes  export-ignore
